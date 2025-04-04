@@ -1,0 +1,16 @@
+package and terminal things
+
+    1. npm init -y at the beginning to initialise package.json
+    2. in package.json, add "serve": "node index.js" in scripts after text 
+        so that when u put npm run serve in terminal, it'll actually perform node index.js
+    3. use npm i express for adding package-lock.json and node modules
+    4. make a .gitignore file and write node_modules there
+    5. do npm i nodemon -D in the terminal for installing nodemon to
+        refresh the browser whenever we save a change automatically
+    6. go to scripts in package.json and add '"start": "nodemon index.js"' so that whenever
+        enter npm start in the terminal it will run in the browser and save the changes automatically
+    7. 
+
+node and express things
+
+    1. to run it - app.listen()
