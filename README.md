@@ -1,2 +1,2 @@
 # node_js
-just things in the process of making nodejs
+just things in the process of learning nodejs
